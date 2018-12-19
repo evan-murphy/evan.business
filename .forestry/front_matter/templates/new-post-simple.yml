@@ -1,0 +1,26 @@
+---
+label: New Post - Simple
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: subject
+  label: Post Subject Line
+  description: Your subject line
+  config:
+    required: true
+- type: datetime
+  name: post_date
+  label: Post date
+  description: Post date
+  config:
+    required: true
+- type: textarea
+  name: post_body
+  label: Post Body
+  description: Post body
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
