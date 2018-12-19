@@ -6,7 +6,6 @@ post_body: |-
 
   ![hooray](/uploads/flag_at_summit_400_clr.png "I did it")
 date: 2018-12-19 20:42:29 +0000
-published: false
 
 ---
 What is on this side?
